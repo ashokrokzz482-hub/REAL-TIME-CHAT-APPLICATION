@@ -41,3 +41,6 @@ Overall, the Real-Time Chat Application demonstrates the practical implementatio
 
 # OUTPUTS
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/72ce689f-f07e-406f-aed8-32d1540aa142" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5323b8ee-c032-4f87-94eb-1c7290c3c517" />
